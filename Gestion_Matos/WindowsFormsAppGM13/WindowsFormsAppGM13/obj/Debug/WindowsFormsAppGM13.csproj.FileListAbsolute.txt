@@ -37,3 +37,15 @@ D:\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.
 D:\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.CoreCompileInputs.cache
 D:\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.exe
 D:\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.pdb
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.exe.config
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.exe
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.pdb
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.AssemblyReference.cache
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormGenerale.resources
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormClient.resources
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormMatos.resources
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.Properties.Resources.resources
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.GenerateResource.cache
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.CoreCompileInputs.cache
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.exe
+D:\Docs Exam\Mission1_PCLrd\Projet_Clent_Lourd\Gestion_Matos\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.pdb
